@@ -1,0 +1,8 @@
+#file created by salt, do not edit locally it will be overwritten
+
+[DEFAULT]
+bantime = 3h
+bantime.increment = true
+
+#email with whois data when a ban takes place
+action = %(action_mwl)s

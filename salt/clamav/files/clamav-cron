@@ -1,0 +1,3 @@
+# clamav cronjob, created by salt, do not edit by hand
+35 02 * * * root /usr/local/bin/clamscan.sh
+

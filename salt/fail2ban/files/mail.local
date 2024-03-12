@@ -1,0 +1,7 @@
+# file managed by salt, do not edit locally.
+# stops email on startup/shutdown of the fail2ban daemon
+
+[Definition]
+actionstart = 
+actionstop = 
+
